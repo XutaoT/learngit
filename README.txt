@@ -5,4 +5,4 @@ Git tracks changes of files.
 Git tracks tow changes of files.
 Git tracks.
 Test gitHub.
-Creating a new branch is quick.
+Creating a new branch is quick AND simple.
